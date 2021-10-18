@@ -1,0 +1,22 @@
+{
+  "name": "ronni-s-piano-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanosplitter/Ronni-s-Piano-Lessons.git"
+  },
+  "author": "Colin Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nanosplitter/Ronni-s-Piano-Lessons/issues"
+  },
+  "homepage": "https://github.com/Nanosplitter/Ronni-s-Piano-Lessons#readme",
+  "dependencies": {
+    "firebase": "^9.1.3"
+  }
+}
